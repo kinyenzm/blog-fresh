@@ -15,7 +15,7 @@ export default function Home(props: PageProps) {
 
   return (
     <main class="p-4">
-      <h1 class="text-4xl font-bold">El blog de midu</h1>
+      <h1 class="text-4xl font-bold">El blog de tú corazón</h1>
 
       {posts.map((post: Post) => (
         <article class="p-4">
